@@ -8,6 +8,4 @@ Get to know more about Xcode story board, changing UI element programmatically a
 Basic programming such as variable, array and randomization in Swift
 
 ## What does it look like??
-<video width="276" height="598>
-  <source src="https://github.com/Helen-Noe/Magic-8-Ball/blob/main/Magic-8-ball.mov" type="video/mov">
-</video>
+<img src="https://github.com/Helen-Noe/Magic-8-Ball/blob/main/Magic-8-ball.gif" width="276" height="598">
